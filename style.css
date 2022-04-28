@@ -1,0 +1,15 @@
+
+.navber{
+    height: 60px;
+    width: 100%;
+    background-color: aquamarine;
+}
+.navBrand{
+  
+    letter-spacing: .4rem;
+    margin-left: 100px;
+    
+}
+.booklist{
+    margin-top: 70px;
+}
